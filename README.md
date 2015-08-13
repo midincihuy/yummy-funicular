@@ -1,0 +1,2 @@
+# yummy-funicular
+test capistrano
